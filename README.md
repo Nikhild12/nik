@@ -1,1 +1,1 @@
-sample content for README
+Read my text
